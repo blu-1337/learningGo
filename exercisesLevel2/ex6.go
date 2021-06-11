@@ -7,7 +7,7 @@ func main() {
 		this = 2021 + iota
 		next
 		afternext
-		nextafternext 
+		nextafternext
 	)
 	fmt.Println(this)
 	fmt.Println(next)
